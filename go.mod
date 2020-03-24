@@ -1,4 +1,4 @@
-module go-check
+module github.com/vincegio/go-check
 
 go 1.14
 

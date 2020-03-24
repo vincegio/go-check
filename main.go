@@ -1,6 +1,6 @@
 package main
 
-import "go-check/cmd"
+import "github.com/vincegio/go-check/cmd"
 
 func main() {
 	cmd.Execute()
